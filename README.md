@@ -1,6 +1,6 @@
 <center>
 	<h1> Oi, eu sou o João </h1> Tenho 22 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
-	<h2>No momento, aprendendo e usando</h2>
+	<h2>No momento, aprendendo e usando:</h2>
 	<p>
 		<a target="_blank">
 			<img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -27,7 +27,7 @@
 		<a target="_blank">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 		</a>
-	<h2>Também sou um designer no meu tempo livre.</h2>
+	<h2>Também sou um designer no meu tempo livre. Eu gosto de usar:</h2>
 	<p>
 		<a target="_blank">
 			<img alt="After Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black" />
@@ -45,7 +45,7 @@
 			<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 		</a>
 	</p>
-	<h2>Me ache no</h2>
+	<h2>Me ache no:</h2>
 	<p>
 		<a href="https://www.behance.net/jpocruz" target="_blank">
 			<img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
