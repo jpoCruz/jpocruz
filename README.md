@@ -4,6 +4,7 @@
 <br>
 <h2>No momento, aprendendo e usando</h2>
 <p>
+ <br>
  <a target="_blank"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
  <a target="_blank"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/></a>
  <a target="_blank"><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
@@ -12,20 +13,19 @@
 <br>
  <a target="_blank"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/></a>
  <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-  <br>
-  <br>
- <h3>Também sou um designer no tempo livre.</h3>
+
+ <h2>Também sou um designer no tempo livre.</h2>
  <p>
- <a href="https://www.behance.net/jpocruz"><strong>Clique aqui pra ver meu portfolio! </strong></a> Eu geralmente uso:<br>
+ <a href="https://www.behance.net/jpocruz"><strong>Clique aqui pra ver meu portfolio! </strong></a> Eu geralmente uso:
+   <br><br>
  <a target="_blank"><img alt="After Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black"/></a>
  <a target="_blank"><img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
  <a target="_blank"><img alt="InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/></a>
  <a target="_blank"><img alt="Jenkins" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/></a>
  <a target="_blank"><img alt="Jenkins" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
-  <br>
-  <br>
-<h3>Me ache no</h3>
+
+<h2>Me ache no</h2>
 <p>
  <a href="http://instagram.com/jpoc10" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/jpocruz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
