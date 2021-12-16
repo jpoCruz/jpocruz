@@ -1,8 +1,5 @@
 <center>
-	<h1> Oi, eu sou o João </h1>
-	Tenho 22 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
-	
-	
+	<h1> Oi, eu sou o João </h1> Tenho 22 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
 	<h2>No momento, aprendendo e usando</h2>
 	<p>
 		<a target="_blank">
@@ -23,17 +20,13 @@
 		<a target="_blank">
 			<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 		</a>
-		
 		<br>
-		
 		<a target="_blank">
 			<img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
 		</a>
 		<a target="_blank">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 		</a>
-		
-		
 	<h2>Também sou um designer no meu tempo livre.</h2>
 	<p>
 		<a target="_blank">
@@ -52,8 +45,6 @@
 			<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 		</a>
 	</p>
-	
-	
 	<h2>Me ache no</h2>
 	<p>
 		<a href="http://instagram.com/jpoc10" target="_blank">
