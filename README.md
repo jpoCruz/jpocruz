@@ -47,7 +47,7 @@
 	</p>
 	<h2>Me ache no</h2>
 	<p>
-		<a href="http://instagram.com/jpoc10" target="_blank">
+		<a href="https://www.behance.net/jpocruz" target="_blank">
 			<img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 		</a>
 		<a href="http://instagram.com/jpoc10" target="_blank">
