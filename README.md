@@ -1,11 +1,5 @@
 <center>
-	<h1> 
-		Oi, eu sou o João
-	</h1>
-	
-	Hi, I'm João. I'm a 22 years-old Computer Science student and also an SRE intern at <a href="https://monkey.exchange">Monkey Exchange</a>.
-	
-	Tenho 22 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
+	<h1> Oi, eu sou o João </h1> Tenho 22 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
 	<h2>No momento, aprendendo e aprendendo a usar:</h2>
 	<p>
 		<a target="_blank">
