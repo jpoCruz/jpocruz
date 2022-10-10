@@ -1,5 +1,5 @@
 <center>
-	<h1> Oi, eu sou o João </h1> Tenho 22 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
+	<h1> Oi, eu sou o João </h1> Tenho 23 anos e sou um estudante de Ciência da Computação na PUC Minas e também um estagiário de SRE na <a href="https://monkey.exchange">Monkey Exchange</a>. <br>
 	<h2>No momento, aprendendo e aprendendo a usar:</h2>
 	<p>
 		<a target="_blank">
