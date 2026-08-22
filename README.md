@@ -1,15 +1,17 @@
 <div align="center">
 
-# oie, eu sou o João :)
+# hi, I'm João :)
 
-Tenho 26 anos e sou **Site Reliability Engineer** na [Monkey](https://www.monkey.tech/).
+I'm a **Site Reliability Engineer** @ [Monkey](https://www.monkey.tech/).
 
-Gosto de fazer automações, cuidar de infraestrutura e tentar transformar ambientes complexos em coisas um pouco mais simples, estáveis e observáveis.
+I enjoy automating stuff, working with infrastructure, and turning complex systems into things that are simpler and easier to operate.
+
+I also like building small products and tools, especially when they solve problems I run into myself.
 
 <br>
 
 <a href="https://cvmaker.jpocruz.com">
-  <img alt="CV Maker" src="https://img.shields.io/badge/CV_Maker-monte_seu_cv-FFB6C1?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img alt="CV Maker" src="https://img.shields.io/badge/CV_Maker-build_your_cv-FFB6C1?style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
 </div>
@@ -18,7 +20,7 @@ Gosto de fazer automações, cuidar de infraestrutura e tentar transformar ambie
 
 <div align="center">
 
-## no momento, usando bastante
+## what I work with
 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -33,7 +35,6 @@ Gosto de fazer automações, cuidar de infraestrutura e tentar transformar ambie
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 </div>
@@ -42,7 +43,9 @@ Gosto de fazer automações, cuidar de infraestrutura e tentar transformar ambie
 
 <div align="center">
 
-## também gosto de fazer coisas bonitas
+## outside of infrastructure
+
+I also really enjoy design and visual work.
 
 <p>
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
@@ -57,7 +60,7 @@ Gosto de fazer automações, cuidar de infraestrutura e tentar transformar ambie
 
 <div align="center">
 
-## me ache por aí
+## find me
 
 <p>
   <a href="https://jpocruz.com">
