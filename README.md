@@ -1,13 +1,15 @@
+
 <div align="center">
 
 # hi, I'm João :)
 
-I'm a **Site Reliability Engineer** @ [Monkey](https://www.monkey.tech/).
+I'm a **Site Reliability Engineer** @ [Monkey](https://www.monkey.tech/), where I work with cloud infrastructure, reliability, security, and automation.
 
 I enjoy automating stuff, working with infrastructure, and turning complex systems into things that are simpler and easier to operate.
 
-I also like building small products and tools, especially when they solve problems I run into myself.
+I also love building things from scratch, especially tools and products that I'd actually want to use myself. I enjoy working on everything, from the infrastructure and backend to the little details that make something actually nice to use.
 
+One of those projects is **CV Maker**, an AI-assisted CV builder I built from the ground up.
 <br>
 
 <a href="https://cvmaker.jpocruz.com">
@@ -37,6 +39,11 @@ I also like building small products and tools, especially when they solve proble
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<p>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
+
 </div>
 
 <br>
@@ -45,14 +52,7 @@ I also like building small products and tools, especially when they solve proble
 
 ## outside of infrastructure
 
-I also really enjoy design and visual work.
-
-<p>
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-  <img alt="After Effects" src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-  <img alt="InDesign" src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
-</p>
+I'm also really into photography, design, and visual storytelling. I have a lot of fun with the creative side of technology :)
 
 </div>
 
@@ -66,14 +66,14 @@ I also really enjoy design and visual work.
   <a href="https://jpocruz.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-jpocruz.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/jpocruz/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.behance.net/jpocruz">
     <img alt="Behance" src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://instagram.com/jpo.cruz">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jpocruz/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@jpoCruz">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
